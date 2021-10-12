@@ -1,4 +1,8 @@
 # Processing Java 
+
+### Project Stack and Significance
+Being able to use, model and manipulate frames using Processing Java.
+
 A Digital Arts Monster animation using processing Java
 
 Overview
